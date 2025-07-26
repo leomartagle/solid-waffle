@@ -1,5 +1,5 @@
 #This program will compute the student's final equivalent grade in Mathematical Computing 1
-#   By: Princess Mae Ceriola, Jennyflor Grace Malipico, Clydesdale Ramos,and Leomar Tagle
+#   By: Leomar Tagle
 #       BSMATH 1-3
 
 print("Welcome to Mathematical Computing 1 Final Grade Calculator!")
