@@ -1,5 +1,5 @@
 #This program will calculate the equivalent grade of the score with base 50 with remarks.
-#   by BSMATH 1-3: Ceriola, Princess Mae; Galves, Leomar; Malipico, Jennyflor Grace, and Ramos, Clydes
+#   by BSMATH 1-3:  Tagle, Leomar
 
 
 def EG():
